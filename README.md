@@ -1,43 +1,46 @@
 # Golf Auction Platform — SQL & Analytics Portfolio
 
 ## Overview
-An end-to-end analytics project on a golf equipment marketplace 
-that combines live auctions and direct e-commerce sales. 
-The goal is to understand what drives customer purchasing behavior, 
-auction performance, and long-term customer value.
-
-## Dataset
-- **Platform**: BigQuery (`roosh-471603.golfer_gc`)
-- **Tables**: 10 tables — sales, auctions, customers, 
-  web analytics, and A/B experiments
-- **Business**: Golf equipment marketplace with two revenue 
-  streams: direct sales and live auction events
+An end-to-end analytics project on a golf equipment marketplace
+that combines live auctions and direct e-commerce sales.
+The goal is to understand what drives customer purchasing behavior,
+auction performance, and long-term customer value —
+and use those insights to grow the business.
 
 ## Business Questions
 
 ### 1. Sales Performance
-- Which brands and categories generate the most revenue 
-  and how are trends shifting over time?
-- How do discount rates and payment methods affect 
-  average order value?
+- Which brands and categories generate the most revenue
+  and how has this trended over time?
+- How do discounts and payment methods affect
+  what customers actually spend?
 
 ### 2. Customer Behavior
-- Do customers from different referral sources have 
-  different purchase frequency and lifetime spend?
-- What is the relationship between website browsing 
-  behavior and conversion to purchase?
+- Which referral sources bring us the highest-value
+  customers — not just the most customers?
+- What does the website journey look like — which pages
+  drive purchases and where do we lose people?
 
 ### 3. Auction Analytics
-- Which auction factors (duration, platform, host) 
-  drive higher sell-through rates and final prices?
-- Who are the high-value bidders and how do they 
-  differ from casual participants?
+- Which platforms and hosts drive the best
+  sell-through rates and highest final prices?
 
-### 4. Data Science Layer
-- Did A/B experiment variants significantly 
-  impact customer conversion rates?
-- Which early behavioral signals best predict 
-  long-term customer value?
+### 4. Customer Retention
+- Who are our best customers and what do they
+  have in common?
+- What is the gap between first and repeat purchases
+  and what drives customers to come back?
+
+### 5. Experimentation
+- Did our A/B experiment variants actually move
+  the needle on conversions?
+
+## Dataset
+- **Platform**: BigQuery (`roosh-471603.golfer_gc`)
+- **Tables**: 10 tables — sales, auctions, customers,
+  web analytics, and A/B experiments
+- **Business**: Golf equipment marketplace with two revenue
+  streams: direct sales and live auction events
 
 ## Repo Structure
 
