@@ -40,10 +40,12 @@ auction performance, and long-term customer value.
   long-term customer value?
 
 ## Repo Structure
+
+```
 sql-portfolio/
 ├── datasets/
-│   ├── schema.sql          # Table definitions
-│   └── seed_data.sql       # Sample data
+│   ├── schema.sql
+│   └── seed_data.sql
 ├── queries/
 │   ├── 01_exploratory.sql
 │   ├── 02_advanced_analytics.sql
@@ -51,8 +53,9 @@ sql-portfolio/
 │   ├── 04_ml_feature_engineering.sql
 │   └── 05_window_functions.sql
 ├── docs/
-│   └── findings.md         # Key insights and recommendations
+│   └── findings.md
 └── README.md
+```
 
 ## Tools & Stack
 | Tool | Purpose |
