@@ -45,16 +45,15 @@ and use those insights to grow the business.
 ## Repo Structure
 
 ```
-sql-portfolio/
-├── datasets/
-│   ├── schema.sql
-│   └── seed_data.sql
-├── queries/
-│   ├── 01_exploratory.sql
-│   ├── 02_advanced_analytics.sql
-│   ├── 03_business_insights.sql
-│   ├── 04_ml_feature_engineering.sql
-│   └── 05_window_functions.sql
+golf-auction-analytics/
+├── data/
+│   └── schema.md
+├── sql/
+│   ├── 01_sales_performance.sql
+│   ├── 02_customer_behavior.sql
+│   ├── 03_auction_analytics.sql
+│   ├── 04_customer_retention.sql
+│   ├── 05_ab_test_analysis.sql
 ├── docs/
 │   └── findings.md
 └── README.md
