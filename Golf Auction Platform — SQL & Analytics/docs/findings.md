@@ -1,58 +1,205 @@
-# Findings
+# 📊 Findings & Insights
 
 ## Overview
-This document summarizes key insights from the SQL analyses.
 
-## Q1 — Sales Performance
+This document translates SQL analysis into **business insights**.
+Instead of focusing only on numbers, it answers:
 
-This analysis evaluates which brands and product categories drive the most revenue, as well as differences in pricing and sales volume.
+👉 *What is happening → Why it matters → What we should do next*
 
-### Key Findings
+These findings align with the **infographic summary** presented in the README.
 
-- Revenue is highly concentrated among a small group of brand-category combinations. The top performers (e.g., Arbor irons, Medaled putters, Medaled irons) each contribute between 9%–11% of total revenue individually.
 
-- Iron products consistently generate the highest revenue across multiple brands (Arbor, Medaled, Baym, Kyoshiro), indicating strong demand in this category.
+# 🟦 Q1 — Sales Performance
 
-- Significant price variation exists across categories:
-  - Irons have the highest average unit prices (e.g., Medaled irons at ~$811, Baym irons at ~$716)
-  - Putters generate strong revenue through high volume but lower unit prices (e.g., Arbor putters at ~$154)
+## 🔍 Insight 1 — Revenue is highly concentrated
 
-- Some brands rely on volume-driven strategies:
-  - Medaled putters and Arbor putters show high transaction counts and units sold, suggesting mass-market appeal
-  - In contrast, iron categories rely more on higher pricing with lower volume
+A small number of brand-category combinations drive a disproportionate share of total revenue.
+Top performers (e.g., Arbor irons, Medaled irons, Medaled putters) each contribute **~9–11% individually**.
 
-- A small number of brands (Arbor, Medaled, Baym) dominate across multiple categories, indicating strong brand presence and diversified product success.
+### 🧠 Interpretation
 
-### Business Implications
+The marketplace is **not evenly distributed** — success is heavily dependent on a few key products.
 
-- Iron products represent a high-value segment and may benefit from premium positioning and targeted marketing.
-- Putter categories drive consistent volume and could be optimized for bundling or promotions.
-- Revenue concentration suggests potential risk — diversifying product performance across more brands could improve stability.
-## Q2 — Customer Acquisition & Behavior
+👉 Right now, the business is “carried” by a few winners
+👉 If one of these drops → revenue risk is high
 
-This analysis evaluates customer acquisition channels based on both volume and customer value, focusing on revenue contribution and average revenue per customer.
+**Action:**
 
-### Key Findings
+* Expand high-performing categories
+* Reduce dependency by growing mid-tier brands
 
-- Organic and Google Search are the dominant acquisition channels, contributing approximately 25% and 20% of total revenue respectively. Together, they account for nearly half of overall revenue.
+---
 
-- Email Marketing is the third-largest contributor (~15%), performing strongly in both customer volume and total revenue, indicating an effective retention and engagement channel.
+## 🔍 Insight 2 — Irons dominate as a premium category
 
-- Social Media and Referral channels generate similar performance, each contributing ~10% of total revenue, suggesting consistent mid-tier acquisition sources.
+Iron products consistently generate the highest revenue across multiple brands
+(e.g., Medaled ~$811 avg price, Baym ~$716).
 
-- Paid advertising channels (Facebook Ads, Instagram Ads, YouTube) contribute significantly less overall revenue (~9% combined), despite acquiring a notable number of customers.
+### 🧠 Interpretation
 
-- Average revenue per customer is relatively consistent across most channels (~$350–$380), indicating that customer quality does not vary dramatically by acquisition source.
+Irons are a **high-value, high-intent purchase** category.
 
-- However, higher-value channels such as Organic and Google Search slightly outperform others in average revenue per customer, suggesting stronger intent-driven traffic.
+Customers are willing to pay more → strong perceived value.
 
-### Business Implications
+**Action:**
 
-- Organic and search-driven channels are highly valuable and should remain a primary focus for growth investment (e.g., SEO, content strategy).
+* Position irons as flagship products
+* Invest in targeted marketing (not discounting)
+* Highlight quality, performance, and brand story
 
-- Email Marketing shows strong performance and may be further optimized for customer retention and repeat engagement.
+---
 
-- Paid acquisition channels may require optimization, as they drive lower overall revenue relative to their cost potential.
+## 🔍 Insight 3 — Putters are volume-driven
+
+Putters generate strong revenue mainly through **high transaction volume**,
+despite lower unit prices (e.g., Arbor putters ~$154).
+
+### 🧠 Interpretation
+
+Putters function as a **mass-market entry product**:
+
+* Lower price → easier purchase decision
+* Higher frequency → consistent revenue flow
+
+**Action:**
+
+* Bundle with other products
+* Use for promotions / entry offers
+* Cross-sell higher-value items (e.g., irons)
+
+---
+
+## 🔍 Insight 4 — Brand dominance across categories
+
+Brands like **Arbor, Medaled, and Baym** perform strongly across multiple categories.
+
+### 🧠 Interpretation
+
+These brands have:
+
+* Strong recognition
+* Product diversification
+* Customer trust
+
+**Action:**
+
+* Prioritize partnerships / inventory
+* Feature them in marketing campaigns
+* Use them to anchor marketplace credibility
+
+---
+
+# 🟩 Q2 — Customer Acquisition & Behavior
+
+## 🔍 Insight 1 — Organic & Search dominate revenue
+
+* Organic: ~25% of total revenue
+* Google Search: ~20%
+  👉 Combined ≈ **~45% of total revenue**
+
+### 🧠 Interpretation
+
+Customers coming from search are **high-intent users**
+→ they already know what they want
+
+**Action:**
+
+* Invest in SEO & content strategy
+* Optimize product pages for search visibility
+* Double down on keywords that convert
+
+---
+
+## 🔍 Insight 2 — Email is a strong retention channel
+
+Email contributes ~15% of revenue and performs well in both volume and value.
+
+### 🧠 Interpretation
+
+Email is not just acquisition — it’s a **retention + reactivation engine**
+
+**Action:**
+
+* Improve email personalization
+* Target repeat buyers
+* Promote high-margin products
+
+---
+
+## 🔍 Insight 3 — Paid ads underperform relative to potential
+
+Paid channels (Facebook, Instagram, YouTube) contribute only ~9% combined revenue.
+
+### 🧠 Interpretation
+
+These channels:
+
+* Bring traffic
+* But not high-converting traffic
+
+Likely issues:
+
+* Targeting
+* Messaging
+* Landing page mismatch
+
+**Action:**
+
+* Re-evaluate targeting strategy
+* Improve ad → landing page alignment
+* Focus on conversion, not just clicks
+
+---
+
+## 🔍 Insight 4 — Customer value is surprisingly consistent
+
+Average revenue per customer is similar across channels (~$350–$380).
+
+### 🧠 Interpretation
+
+Customer quality does **not vary dramatically by source**
+→ acquisition source matters less than expected
+
+**Action:**
+
+* Focus on scaling high-performing channels
+* Improve conversion funnel instead of chasing “perfect users”
+
+---
+
+# 🔗 Connecting to the Infographic
+
+The infographic summarizes three key themes:
+
+### 1️⃣ Revenue Concentration
+
+👉 Few brands + categories dominate performance
+
+### 2️⃣ Channel Efficiency
+
+👉 Organic & Search outperform Paid
+
+### 3️⃣ Customer Value
+
+👉 Repeat customers and high-intent traffic drive growth
+
+---
+
+## 💡 Final Takeaway
+
+This analysis shows that growth does not come from “more data” —
+it comes from **understanding leverage points**:
+
+* High-value products (Irons)
+* High-volume drivers (Putters)
+* High-intent channels (Search)
+* High-LTV users (Repeat customers)
+
+👉 The opportunity is to **align product, marketing, and retention strategies**
+around these drivers.
+
+---
 
 - Since customer value is relatively consistent across channels, scaling high-volume channels may be more impactful than attempting to improve per-customer value.
 
