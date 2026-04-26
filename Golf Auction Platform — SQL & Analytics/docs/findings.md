@@ -184,7 +184,6 @@ The infographic summarizes three key themes:
 
 👉 Repeat customers and high-intent traffic drive growth
 
----
 
 ## 💡 Final Takeaway
 
@@ -196,93 +195,7 @@ it comes from **understanding leverage points**:
 * High-intent channels (Search)
 * High-LTV users (Repeat customers)
 
-👉 The opportunity is to **align product, marketing, and retention strategies**
+ The opportunity is to **align product, marketing, and retention strategies**
 around these drivers.
 
----
 
-- Since customer value is relatively consistent across channels, scaling high-volume channels may be more impactful than attempting to improve per-customer value.
-
-## Q3 — Auction Platform & Host Performance
-
-This analysis evaluates auction performance across platforms and hosts, focusing on engagement (viewers), operational characteristics (duration), and revenue outcomes.
-
-### Key Findings
-
-- YouTube is the dominant auction platform, accounting for the vast majority of auctions, significantly higher viewer counts (~2,700–2,800 average viewers), and the highest total purchase values.
-
-- In contrast, the web_app platform has substantially lower audience reach (~270 viewers on average), but often achieves comparable or even higher average purchase value per auction.
-
-- Host performance is relatively consistent on YouTube:
-  - Most hosts generate similar average purchase value per auction (~$500–$540)
-  - Auction duration (~70–72 minutes) and viewer counts are also stable across hosts
-  - This suggests a standardized and optimized auction format
-
-- Some web_app hosts (e.g., Sam Wong, Bella Sharma) achieve higher average purchase value per auction (~$550+), despite lower traffic, indicating more targeted or higher-intent audiences.
-
-- There is a clear trade-off between scale and efficiency:
-  - YouTube provides massive reach and total revenue
-  - web_app delivers higher value per auction but with limited audience size
-
-### Business Implications
-
-- YouTube should remain the primary platform for scaling auctions due to its strong reach and total revenue contribution.
-
-- The web_app platform presents an opportunity for high-value, niche auctions and could be optimized further for premium offerings.
-
-- Since host-level performance on YouTube is relatively consistent, platform factors (audience size, distribution) appear to drive outcomes more than individual hosts.
-
-- Exploring ways to increase traffic to web_app auctions could significantly improve overall revenue efficiency.
-## Q4 — Customer Retention & Repeat Purchase Behavior
-
-This analysis examines customer retention patterns by evaluating repeat purchase behavior and the time between first and second transactions.
-
-### Key Findings
-
-- A large proportion of customers appear to make only a single purchase, as many high-revenue customers show only one transaction with identical first and last purchase dates.
-
-- Among customers who do return, repeat purchases tend to occur very quickly:
-  - Many repeat transactions happen within 1–3 days of the first purchase
-  - The majority of repeat purchases occur within the first week
-
-- This indicates that repeat purchasing behavior is highly front-loaded, with customers either:
-  - converting into repeat buyers almost immediately, or  
-  - not returning at all
-
-- There is little evidence of long-term delayed repeat behavior, suggesting that customer retention is driven more by immediate engagement than long-term lifecycle nurturing.
-
-- Some customers appear under multiple referral sources, which may indicate:
-  - multi-channel attribution
-  - or potential data duplication issues that could affect channel-level analysis
-
-### Business Implications
-
-- The first few days after a customer’s initial purchase are critical for retention. Targeted follow-ups (e.g., email campaigns, recommendations, promotions) should focus on this short window.
-
-- Since most customers do not return after their first purchase, improving early retention could significantly increase overall revenue.
-
-- Strategies such as onboarding incentives, bundling, or personalized recommendations may help convert first-time buyers into repeat customers.
-
-- Data quality around customer attribution should be reviewed to ensure accurate measurement of channel performance and retention behavior.
-
-## Q5 — A/B Experiment Analysis
-
-This analysis evaluates the impact of a free shipping experiment by comparing conversion rates between control and treatment groups.
-
-### Key Findings
-
-- The treatment group (free shipping) achieved a slightly higher conversion rate (95.56%) compared to the control group (95.02%).
-
-- This represents a modest uplift of +0.54 percentage points, indicating a positive but limited effect of the free shipping intervention.
-
-- Both groups exhibit very high baseline conversion rates (~95%), suggesting that the majority of users are already highly likely to convert regardless of the experiment.
-
-- The small difference between treatment and control suggests that free shipping may not be a strong differentiator in this context.
-
-### Business Implications
-
-- While free shipping has a positive effect on conversion, the magnitude of the impact is relatively small and may not justify the potential cost increase.
-
-- Given the already high baseline conversion rate, further gains may require more impactful interventions (e.g., pricing strategy, product bundling, or personalization).
-
-- Future experiments could focus on segments with lower baseline conversion rates, where interventions may yield higher returns.
