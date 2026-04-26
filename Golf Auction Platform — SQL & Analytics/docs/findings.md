@@ -168,7 +168,9 @@ Customer quality does **not vary dramatically by source**
 
 ---
 
-# 🔗 Connecting to the Infographic
+## 🔗 Connecting to the Infographic
+
+![Infographic](https://raw.githubusercontent.com/YutangSSS/analytics-portfolio/main/Golf%20Auction%20Platform%20%E2%80%94%20SQL%20%26%20Analytics/visuals/golf-marketplace-analytics-infographic.svg)
 
 The infographic summarizes three key themes:
 
