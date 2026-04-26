@@ -12,7 +12,7 @@ These findings align with the **infographic summary** presented in the README.
 
 # 🟦 Q1 — Sales Performance
 
-## 🔍 Insight 1 — Revenue is highly concentrated
+## Insight 1 — Revenue is highly concentrated
 
 A small number of brand-category combinations drive a disproportionate share of total revenue.
 Top performers (e.g., Arbor irons, Medaled irons, Medaled putters) each contribute **~9–11% individually**.
@@ -29,7 +29,7 @@ If one of these drops → revenue risk is high
 
 ---
 
-## 🔍 Insight 2 — Irons dominate as a premium category
+##  Insight 2 — Irons dominate as a premium category
 
 Iron products consistently generate the highest revenue across multiple brands
 (e.g., Medaled ~$811 avg price, Baym ~$716).
@@ -46,7 +46,7 @@ Customers are willing to pay more → strong perceived value.
 
 ---
 
-## 🔍 Insight 3 — Putters are volume-driven
+##  Insight 3 — Putters are volume-driven
 
 Putters generate strong revenue mainly through **high transaction volume**,
 despite lower unit prices (e.g., Arbor putters ~$154).
@@ -64,7 +64,7 @@ Putters function as a **mass-market entry product**:
 
 ---
 
-## 🔍 Insight 4 — Brand dominance across categories
+## Insight 4 — Brand dominance across categories
 
 Brands like **Arbor, Medaled, and Baym** perform strongly across multiple categories.
 
@@ -84,7 +84,7 @@ These brands have:
 
 # 🟩 Q2 — Customer Acquisition & Behavior
 
-## 🔍 Insight 1 — Organic & Search dominate revenue
+## Insight 1 — Organic & Search dominate revenue
 
 * Organic: ~25% of total revenue
 * Google Search: ~20%
@@ -101,7 +101,7 @@ Customers coming from search are **high-intent users**
 
 ---
 
-## 🔍 Insight 2 — Email is a strong retention channel
+## Insight 2 — Email is a strong retention channel
 
 Email contributes ~15% of revenue and performs well in both volume and value.
 
@@ -115,7 +115,7 @@ Email is not just acquisition — it’s a **retention + reactivation engine**
 
 ---
 
-## 🔍 Insight 3 — Paid ads underperform relative to potential
+## Insight 3 — Paid ads underperform relative to potential
 
 Paid channels (Facebook, Instagram, YouTube) contribute only ~9% combined revenue.
 
@@ -138,7 +138,7 @@ Likely issues:
 
 ---
 
-## 🔍 Insight 4 — Customer value is surprisingly consistent
+## Insight 4 — Customer value is surprisingly consistent
 
 Average revenue per customer is similar across channels (~$350–$380).
 
@@ -171,7 +171,7 @@ Few brands + categories dominate performance
  Repeat customers and high-intent traffic drive growth
 
 
-## 💡 Final Takeaway
+## Final Takeaway
 
 This analysis shows that growth does not come from “more data” —
 it comes from **understanding leverage points**:
