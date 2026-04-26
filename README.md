@@ -1,4 +1,4 @@
-# Golf Auction Platform — SQL & Analytics Portfolio
+# Golf Auction Platform — Analytics Portfolio
 
 ## Overview
 An end-to-end analytics project on a golf equipment marketplace
