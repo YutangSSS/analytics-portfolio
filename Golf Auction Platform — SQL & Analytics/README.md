@@ -56,6 +56,8 @@ golf-auction-analytics/
 │   ├── 05_ab_test_analysis.sql
 ├── docs/
 │   └── findings.md
+├── visuals/
+│   └── golf-marketplace-analytics-infographic.svg
 └── README.md
 ```
 
