@@ -10,7 +10,7 @@ Instead of focusing only on numbers, it answers:
 These findings align with the **infographic summary** presented in the README.
 
 
-# 🟦 Q1 — Sales Performance
+#  Quetion 1 — Sales Performance
 
 ## Insight 1 — Revenue is highly concentrated
 
@@ -82,7 +82,7 @@ These brands have:
 
 ---
 
-# 🟩 Q2 — Customer Acquisition & Behavior
+# Question 2 — Customer Acquisition & Behavior
 
 ## Insight 1 — Organic & Search dominate revenue
 
