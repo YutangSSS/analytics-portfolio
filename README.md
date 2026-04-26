@@ -108,7 +108,7 @@ Golf Auction Platform — SQL & Analytics/
 
 For full breakdown of queries, logic, and insights:
 
-👉 **[View Detailed Analysis](Golf Auction Platform — SQL & Analytics/docs/findings.md)**
+👉 **[View Detailed Analysis](https://github.com/YutangSSS/analytics-portfolio/blob/main/Golf%20Auction%20Platform%20%E2%80%94%20SQL%20%26%20Analytics/docs/findings.md)**
 
 ---
 
