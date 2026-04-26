@@ -5,7 +5,7 @@
 This document translates SQL analysis into **business insights**.
 Instead of focusing only on numbers, it answers:
 
-👉 *What is happening → Why it matters → What we should do next*
+ *What is happening → Why it matters → What we should do next*
 
 These findings align with the **infographic summary** presented in the README.
 
@@ -17,12 +17,10 @@ These findings align with the **infographic summary** presented in the README.
 A small number of brand-category combinations drive a disproportionate share of total revenue.
 Top performers (e.g., Arbor irons, Medaled irons, Medaled putters) each contribute **~9–11% individually**.
 
-### 🧠 Interpretation
-
 The marketplace is **not evenly distributed** — success is heavily dependent on a few key products.
 
-👉 Right now, the business is “carried” by a few winners
-👉 If one of these drops → revenue risk is high
+Right now, the business is “carried” by a few winners
+If one of these drops → revenue risk is high
 
 **Action:**
 
@@ -35,8 +33,6 @@ The marketplace is **not evenly distributed** — success is heavily dependent o
 
 Iron products consistently generate the highest revenue across multiple brands
 (e.g., Medaled ~$811 avg price, Baym ~$716).
-
-### 🧠 Interpretation
 
 Irons are a **high-value, high-intent purchase** category.
 
@@ -55,8 +51,6 @@ Customers are willing to pay more → strong perceived value.
 Putters generate strong revenue mainly through **high transaction volume**,
 despite lower unit prices (e.g., Arbor putters ~$154).
 
-### 🧠 Interpretation
-
 Putters function as a **mass-market entry product**:
 
 * Lower price → easier purchase decision
@@ -73,8 +67,6 @@ Putters function as a **mass-market entry product**:
 ## 🔍 Insight 4 — Brand dominance across categories
 
 Brands like **Arbor, Medaled, and Baym** perform strongly across multiple categories.
-
-### 🧠 Interpretation
 
 These brands have:
 
@@ -96,9 +88,7 @@ These brands have:
 
 * Organic: ~25% of total revenue
 * Google Search: ~20%
-  👉 Combined ≈ **~45% of total revenue**
-
-### 🧠 Interpretation
+Combined ≈ **~45% of total revenue**
 
 Customers coming from search are **high-intent users**
 → they already know what they want
@@ -115,8 +105,6 @@ Customers coming from search are **high-intent users**
 
 Email contributes ~15% of revenue and performs well in both volume and value.
 
-### 🧠 Interpretation
-
 Email is not just acquisition — it’s a **retention + reactivation engine**
 
 **Action:**
@@ -130,8 +118,6 @@ Email is not just acquisition — it’s a **retention + reactivation engine**
 ## 🔍 Insight 3 — Paid ads underperform relative to potential
 
 Paid channels (Facebook, Instagram, YouTube) contribute only ~9% combined revenue.
-
-### 🧠 Interpretation
 
 These channels:
 
@@ -156,8 +142,6 @@ Likely issues:
 
 Average revenue per customer is similar across channels (~$350–$380).
 
-### 🧠 Interpretation
-
 Customer quality does **not vary dramatically by source**
 → acquisition source matters less than expected
 
@@ -176,15 +160,15 @@ The infographic summarizes three key themes:
 
 ### 1️⃣ Revenue Concentration
 
-👉 Few brands + categories dominate performance
+Few brands + categories dominate performance
 
 ### 2️⃣ Channel Efficiency
 
-👉 Organic & Search outperform Paid
+ Organic & Search outperform Paid
 
 ### 3️⃣ Customer Value
 
-👉 Repeat customers and high-intent traffic drive growth
+ Repeat customers and high-intent traffic drive growth
 
 
 ## 💡 Final Takeaway
