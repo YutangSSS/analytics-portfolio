@@ -1,51 +1,93 @@
-# Golf Auction Platform — Analytics Portfolio
+# 🏌️ Golf Auction Platform — SQL & Analytics Portfolio
 
-## Overview
-An end-to-end analytics project on a golf equipment marketplace
-that combines live auctions and direct e-commerce sales.
-The goal is to understand what drives customer purchasing behavior,
-auction performance, and long-term customer value —
-and use those insights to grow the business.
+## 📌 Project Summary
 
-## Business Questions
+This project analyzes a **golf equipment marketplace** that combines
+**live auction events** with **direct e-commerce sales**.
+
+The goal is to uncover:
+
+* What drives **customer purchasing behavior**
+* What makes auctions **successful vs underperforming**
+* How to increase **long-term customer value (LTV)**
+
+---
+
+## 📊 Executive Insights
+
+* **Revenue is highly concentrated** among a small set of premium brands
+* **Referral traffic drives conversions**, but not all sources bring high-value customers
+* **Auctions increase engagement**, but do not always maximize revenue
+* **Repeat customers significantly outperform** first-time buyers in total spend
+* **A/B experiments show measurable lift**, but impact varies by segment
+
+---
+
+## 📈 Infographic Overview
+
+![Golf Marketplace Analytics Infographic](https://raw.githubusercontent.com/YutangSSS/analytics-portfolio/main/Golf%20Auction%20Platform%20—%20SQL%20%26%20Analytics/visuals/golf-marketplace-analytics-infographic.svg)
+
+---
+
+## 🔍 Business Questions
 
 ### 1. Sales Performance
-- Which brands and categories generate the most revenue
-  and how has this trended over time?
-- How do discounts and payment methods affect
-  what customers actually spend?
+
+* Which brands and product categories generate the most revenue?
+* How do discounts and payment methods influence purchase value?
 
 ### 2. Customer Behavior
-- Which referral sources bring us the highest-value
-  customers — not just the most customers?
-- What does the website journey look like — which pages
-  drive purchases and where do we lose people?
+
+* Which referral channels bring the highest-value customers?
+* Where do users drop off in the purchasing journey?
 
 ### 3. Auction Analytics
-- Which platforms and hosts drive the best
-  sell-through rates and highest final prices?
+
+* Which auction platforms and hosts achieve the best sell-through rates?
+* What factors influence final auction prices?
 
 ### 4. Customer Retention
-- Who are our best customers and what do they
-  have in common?
-- What is the gap between first and repeat purchases
-  and what drives customers to come back?
 
-### 5. Experimentation
-- Did our A/B experiment variants actually move
-  the needle on conversions?
+* What defines a “high-value” customer?
+* What drives repeat purchases and long-term engagement?
 
-## Dataset
-- **Platform**: BigQuery (`roosh-471603.golfer_gc`)
-- **Tables**: 10 tables — sales, auctions, customers,
-  web analytics, and A/B experiments
-- **Business**: Golf equipment marketplace with two revenue
-  streams: direct sales and live auction events
+### 5. Experimentation (A/B Testing)
 
-## Repo Structure
+* Did product or UI changes increase conversion rates?
+* Which user segments responded most positively?
+
+---
+
+## 🧠 Analytical Approach
+
+This project follows a structured analytics workflow:
+
+1. **Data Exploration**
+
+   * Understanding schema across sales, auctions, and web analytics tables
+
+2. **Metric Definition**
+
+   * Revenue, conversion rate, sell-through rate, repeat purchase rate
+
+3. **SQL Analysis (BigQuery)**
+
+   * Aggregations, joins, cohort logic, A/B test evaluation
+
+4. **Insight Generation**
+
+   * Translating data into actionable business recommendations
+
+5. **Visualization**
+
+   * Creating a high-level infographic to communicate findings clearly
+
+---
+
+## 📂 Repository Structure
 
 ```
-golf-auction-analytics/
+Golf Auction Platform — SQL & Analytics/
 ├── data/
 │   └── schema.md
 ├── sql/
@@ -57,16 +99,34 @@ golf-auction-analytics/
 ├── docs/
 │   └── findings.md
 ├── visuals/
-│   └── infographic.png
-└── README.md
+│   └── golf-marketplace-analytics-infographic.svg
 ```
 
-## Tools & Stack
-| Tool | Purpose |
-|------|---------|
-| BigQuery | Cloud data warehouse + SQL execution |
-| dbt | Transformation layer + model testing |
-| GitHub | Version control + portfolio hosting |
+---
 
-## Author
-[Jacqueline Song] — [https://www.linkedin.com/in/yutang-song/] — [yutangssong@gmail.com]
+## 📖 Detailed Findings
+
+For full breakdown of queries, logic, and insights:
+
+👉 **[View Detailed Analysis](docs/findings.md)**
+
+---
+
+## ⚙️ Tools & Technologies
+
+* **SQL (BigQuery)**
+* Data Analysis & Aggregation
+* A/B Testing Analysis
+* Data Visualization (Infographic Design)
+
+---
+
+## 💡 Key Takeaway
+
+This project demonstrates how **data analysis goes beyond querying data** —
+it connects **business questions → metrics → insights → decisions**.
+
+It reflects a real-world workflow where analytics supports
+**product strategy, marketing decisions, and revenue optimization**.
+
+---
