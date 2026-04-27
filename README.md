@@ -29,7 +29,7 @@ The goal is to uncover:
 
 ---
 
-## Business Questions
+## 5 Business Questions 
 
 ### 1. Sales Performance
 
@@ -80,7 +80,7 @@ This project follows a structured analytics workflow:
 
 5. **Visualization**
 
-   * Creating a high-level infographic to communicate findings clearly
+   * An infographic to communicate findings
 
 ---
 
