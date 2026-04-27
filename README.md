@@ -108,11 +108,11 @@ Golf Auction Platform — SQL & Analytics/
 
 For full breakdown of queries, logic, and insights:
 
-👉 **[View Detailed Analysis](https://github.com/YutangSSS/analytics-portfolio/blob/main/Golf%20Auction%20Platform%20%E2%80%94%20SQL%20%26%20Analytics/docs/findings.md)**
+ **[View Detailed Analysis](https://github.com/YutangSSS/analytics-portfolio/blob/main/Golf%20Auction%20Platform%20%E2%80%94%20SQL%20%26%20Analytics/docs/findings.md)**
 
 ---
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 
 * **SQL (BigQuery)**
 * Data Analysis & Aggregation
@@ -123,8 +123,8 @@ For full breakdown of queries, logic, and insights:
 
 ## Key Takeaway
 
-This project demonstrates how **data analysis goes beyond querying data** —
-it connects **business questions → metrics → insights → decisions**.
+This project demonstrates how **data analysis goes beyond querying data** 
+it connects **business questions, metrics, insights and decisions**.
 
 It reflects a real-world workflow where analytics supports
 **product strategy, marketing decisions, and revenue optimization**.
