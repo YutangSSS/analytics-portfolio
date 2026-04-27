@@ -1,6 +1,6 @@
 # 🏌️ Golf Auction Platform — SQL & Analytics Portfolio
 
-## 📌 Project Summary
+## Project Summary
 
 This project analyzes a **golf equipment marketplace** that combines
 **live auction events** with **direct e-commerce sales**.
@@ -13,7 +13,7 @@ The goal is to uncover:
 
 ---
 
-## 📊 Executive Insights
+## Executive Insights
 
 * **Revenue is highly concentrated** among a small set of premium brands
 * **Referral traffic drives conversions**, but not all sources bring high-value customers
@@ -29,7 +29,7 @@ The goal is to uncover:
 
 ---
 
-## 🔍 Business Questions
+## Business Questions
 
 ### 1. Sales Performance
 
@@ -58,7 +58,7 @@ The goal is to uncover:
 
 ---
 
-## 🧠 Analytical Approach
+## Analytical Approach
 
 This project follows a structured analytics workflow:
 
@@ -84,7 +84,7 @@ This project follows a structured analytics workflow:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 Golf Auction Platform — SQL & Analytics/
@@ -121,7 +121,7 @@ For full breakdown of queries, logic, and insights:
 
 ---
 
-## 💡 Key Takeaway
+## Key Takeaway
 
 This project demonstrates how **data analysis goes beyond querying data** —
 it connects **business questions → metrics → insights → decisions**.
