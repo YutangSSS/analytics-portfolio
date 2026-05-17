@@ -45,8 +45,8 @@
     <rect x="0" y="0" width="952" height="166" rx="8" class="paper"/>
     <text x="48" y="48" class="sans label green">Sales</text>
     <text x="48" y="88" class="sans h2 ink">A few brands carry a lot of the story.</text>
-    <text x="48" y="126" class="sans body muted">A few major brands (Callaway, TaylorMade, Titleist, PING)</text>
-    <text x="48" y="152" class="sans body muted">dominate the revenue mix.</text>
+    <text x="48" y="126" class="sans body muted">A few major brands dominate the revenue mix.</text>
+    <text x="48" y="152" class="sans body muted">Replace the labels once the exact brand names are confirmed.</text>
     <g transform="translate(650 22)">
       <text x="0" y="8" class="sans small green">Brand Revenue Share</text>
       <rect x="0" y="68" width="46" height="48" rx="5" fill="#173d2b" opacity="0.88"/>
@@ -58,10 +58,10 @@
       <text x="82" y="29" class="sans small green">11%</text>
       <text x="157" y="43" class="sans small green">10%</text>
       <text x="234" y="69" class="sans small green">8%</text>
-      <text x="23" y="137" text-anchor="middle" class="sans" font-size="12" font-weight="820" fill="#102016">Callaway</text>
-      <text x="99" y="137" text-anchor="middle" class="sans" font-size="12" font-weight="820" fill="#102016">TaylorMade</text>
-      <text x="175" y="137" text-anchor="middle" class="sans" font-size="12" font-weight="820" fill="#102016">Titleist</text>
-      <text x="251" y="137" text-anchor="middle" class="sans" font-size="12" font-weight="820" fill="#102016">PING</text>
+      <text x="23" y="137" text-anchor="middle" class="sans" font-size="12" font-weight="820" fill="#102016">Brand 1</text>
+      <text x="99" y="137" text-anchor="middle" class="sans" font-size="12" font-weight="820" fill="#102016">Brand 2</text>
+      <text x="175" y="137" text-anchor="middle" class="sans" font-size="12" font-weight="820" fill="#102016">Brand 3</text>
+      <text x="251" y="137" text-anchor="middle" class="sans" font-size="12" font-weight="820" fill="#102016">Brand 4</text>
     </g>
   </g>
 
@@ -120,10 +120,11 @@
     <text x="814" y="103" text-anchor="middle" class="sans small muted">Conversion Lift</text>
   </g>
 
-  <g transform="translate(64 1234)">
-    <rect x="0" y="0" width="952" height="70" rx="8" fill="#102016"/>
-    <text x="34" y="31" class="sans label" fill="#dce7dc">My Read</text>
-    <text x="34" y="56" class="sans small" fill="#fbfcf7">Acquisition is working; retention and product mix are where growth can get stronger.</text>
-    <text x="0" y="98" class="mono" font-size="14" fill="#dce7dc">Source: github.com/YutangSSS/analytics-portfolio</text>
+  <g transform="translate(64 1222)">
+    <rect x="0" y="0" width="952" height="92" rx="8" fill="#102016"/>
+    <text x="34" y="29" class="sans label" fill="#dce7dc">Final Takeaway</text>
+    <text x="34" y="54" class="sans small" fill="#fbfcf7">Marketing: lean into organic/search. Merchandising: test brand and category bundles.</text>
+    <text x="34" y="78" class="sans small" fill="#fbfcf7">CRM: trigger 1-7 day follow-ups for first-time buyers.</text>
+    <text x="0" y="110" class="mono" font-size="14" fill="#dce7dc">Source: github.com/YutangSSS/analytics-portfolio</text>
   </g>
 </svg>
