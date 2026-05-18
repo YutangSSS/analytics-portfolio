@@ -24,7 +24,11 @@ The goal is to uncover:
 ---
 
 ## 📈 Infographic Overview
-![Golf Marketplace Analytics Infographic](Golf%20Auction%20Platform%20%E2%80%94%20SQL%20%26%20Analytics/visuals/golf-marketplace-analytics-infographic.svg)
+## 📊 Golf Marketplace Analytics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YutangSSS/analytics-portfolio/main/Golf%20Auction%20Platform%20—%20SQL%20%26%20Analytics/visuals/new.png" width="700">
+</p>
 
 ---
 
